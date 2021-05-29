@@ -15,7 +15,10 @@ Courses | School | Duration | Effort | Frequency | Prerequisites  |  Date Starte
 
 Courses | School | Duration | Effort | Frequency | Prerequisites  |  Date Started 
 :-- | :--: | :--: | :--: | :--: | :--:
+-[] [Project Odin - JavaScript Route](https://theodinproject.com) | Odin Project  | 1 Year | 10 Hours a Week 
 -[] [Python 3 Programming Specialization](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fpython-3-programming) | University of Michigan | 5 months | 7 hours/week | self-paced | none
+
+
 
 ## Math
 
