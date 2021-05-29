@@ -79,3 +79,72 @@ function countdown() {
 ```
 
 Note the above we are merely *declaring* the function. In order to run it, we must call upon it or invoke the **countdown**() function. 
+
+```javascript
+// Create a function (you decide the name) that logs out the number 42 to the console
+// Call/invoke the function
+
+function myLogger() {
+    console.log(42)
+}
+
+myLogger() 
+```
+
+
+
+```javascript
+let lap1 = 34
+let lap2 = 33
+let lap3 = 36
+
+// Create a function that logs out the sum of all the lap times
+
+function totalLog() {
+   let totalTime = lap1 + lap2 + lap3
+    console.log(totalTime)
+}
+
+totalLog()
+
+
+```
+
+The above was my code. Note, the variable totalLog can only be referenced within this function because it is not *a global variable*; instead it is being used only by this function when invoked. 
+
+The same problem above can be refactored as follows as well: 
+
+```javascript
+let lap1 = 34
+let lap2 = 33
+let lap3 = 36
+
+// Create a function that logs out the sum of all the lap times
+function logLapTime() {
+    // let totalTime = lap1 + lap2 + lap3
+    console.log(lap1 + lap2  + lap3)
+}
+
+logLapTime()
+```
+
+The next problem is a lap counter for a race. My solution:
+
+
+
+```javascript
+let lapsCompleted = 0
+
+// Create a function that increments the lapsCompleted variable with one
+// Run it three times
+
+function lapCounter() {
+    lapsCompleted = lapsCompleted + 1
+}
+
+lapCounter()
+lapCounter()
+lapCounter()
+console.log(lapsCompleted)
+```
+
