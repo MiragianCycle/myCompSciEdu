@@ -1,0 +1,28 @@
+# THINGS I AM LEARNING 
+
+1. Vim Tutor 
+2. Vimscript 
+3. Typing 
+
+
+
+
+
+
+
+
+# THINGS I NEED TO GET BETTER AT 
+
+
+
+
+# THINGS I AM RESEARCHING 
+
+
+
+# VIM CONFIG IDEAS FOR WRITERS 
+
+
+
+
+# VIM CONFIG IDEAS FOR CODING 

@@ -1,4 +1,4 @@
-### Pseudocode for the passenger counter app 
+Pseudocode for the passenger counter app
 
 
 
