@@ -8,7 +8,7 @@
 - **Faculty** [Noam Nisan](http://www.cs.huji.ac.il/~noam/) [Shimon Schocken](http://www.cs.huji.ac.il/~noam/)
 
 ## Course Taker 
-- Theena Kumaragurunathan [@MiragianCycle](https://github.com/MiragianCycle) [Personal Site](https://theena.net/)
+- [Theena Kumaragurunathan](https://theena.net/) [@MiragianCycle](https://github.com/MiragianCycle)
 - Course starting date: Tue 20 Jul 2021 11:59:04 PM +0530
 
 
