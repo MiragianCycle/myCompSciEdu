@@ -18,7 +18,7 @@
     - Python syntax is very strict about indentation 
     - Indentation affects your code 
     - Indentation in Python is **four spaces**
-   
+
 ### MATH WITH PYTHON
 - Python is useful for math evaluation 
 - In math a constant value is one that doesn't change. For example: 2 is always 2 in conventional math 
@@ -49,6 +49,28 @@
 - Words are strings 
 - nonetype represents the **absence** of values 
 
+**SUMMARY**
+
+- Everything in Python is an object
+- Python puts every object into a category that represents what kind of data it is - this is called a **data type** 
+- The following are the different kinds of data types: integer, float, string, boolean, nonetype. 
+
+
 
 ### ARITHMETIC OPERATORS 
-- 
+
+- Python has three types of operators 
+    - Arithmetic operators 
+    - Comparison operators 
+    - Logical operators
+- You use operators in an *expression 
+- Expression is a line of code that Python reduces to a single value 
+- An example of expression is 4 / 2 . In this case, Python evaluates the expression to 2 
+- An expression is made of operands and operators 
+- In the case of 4/2, the division sign (/) is the operator while 4 & 2 are the operands 
+- Python includes the following operators: **Exponent**\(\*\*), **Modulo**(%), **Integer** **Division**(//), **Division**(/), **Multiplication**\(\*\), **Addition**(+), and **Subtraction**(-)
+
+|      |      |
+| ---- | ---- |
+|      |      |
+
