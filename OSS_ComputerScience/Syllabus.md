@@ -27,7 +27,6 @@ Courses | School | Duration | Effort | Frequency | Prerequisites  |  Date Starte
 -[] [Introduction to Probability and Data](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprobability-intro) | Duke | 5 weeks | 5-7 hours/week | twice a month | none
 -[] [Intro to Statistics ](https://imp.i115008.net/intro-to-statistics) | Udacity | 8 weeks | 5-7 hours/week | self-paced | none
 
-
 ## Unix
 
 Courses | School | Duration | Effort | Frequency | Prerequisites  |  Date Started 
